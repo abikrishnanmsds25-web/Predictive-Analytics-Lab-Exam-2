@@ -1,16 +1,16 @@
 # Predictive-Analytics-Lab-Exam-2
 
-# 📊 Lab 2 - Data Analysis / Machine Learning
+#  Lab 2 - Data Analysis 
 
-## 👨‍🎓 Student Details
+##  My Details
 
 * **Name:** Abikrishnan
 * **Program:** M.Sc CSDA
 * **Roll Number:** 253002
 
----
 
-## 📁 Project Description
+
+##  Project Description
 
 This repository contains the implementation of **Lab 2**, which focuses on data preprocessing, analysis, and model building using Python.
 
@@ -22,9 +22,9 @@ The notebook demonstrates:
 * Model training
 * Evaluation of results
 
----
 
-## 🛠️ Technologies Used
+
+##  Technologies Used
 
 * Python
 * Google Colab / Jupyter Notebook
@@ -33,15 +33,15 @@ The notebook demonstrates:
 * Matplotlib / Seaborn
 * Scikit-learn
 
----
 
-## 📂 Files in Repository
+
+##  Files in Repository
 
 * `Abikrishnan_ms_CSDA_253002_LAB_2.ipynb` → Main lab notebook
 
----
 
-## 🚀 How to Run the Project
+
+##  How to Run the Project
 
 1. Open the notebook in **Google Colab** or **Jupyter Notebook**
 2. Install required libraries (if needed):
@@ -51,9 +51,9 @@ The notebook demonstrates:
    ```
 3. Run all cells step by step
 
----
 
-## 📊 Output
+
+##  Output
 
 The notebook includes:
 
@@ -61,13 +61,13 @@ The notebook includes:
 * Model training results
 * Performance metrics
 
----
 
-## 📌 Conclusion
+
+##  Conclusion
 
 This lab demonstrates how to preprocess data and apply machine learning techniques to derive meaningful insights.
 
----
+
 
 ## 🔗 Dataset
 
